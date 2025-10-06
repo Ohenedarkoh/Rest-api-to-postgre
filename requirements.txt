@@ -1,0 +1,8 @@
+pandas
+requests
+psycopg2
+python-dotenv
+pprintpp
+beautifulsoup4
+matplotlib
+sqlalchemy
