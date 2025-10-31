@@ -1,4 +1,4 @@
-# Remote-jobs-api-to-postgre
+# Rest-api-to-postgre
 This project demonstrates how to extract data from a REST API using Python, perform basic eda and or cleaning, and store it in a SQL database for analysis.
 It’s a one-time data extraction project, ideal for data analysis or analytics engineering tasks.
 
