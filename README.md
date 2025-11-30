@@ -1,3 +1,4 @@
+
 # Remote Job Market Data Pipeline
 
 ## Description
@@ -70,6 +71,7 @@ This project implements an end-to-end data pipeline to extract, clean, and load 
 
 2.  **Verify data in PostgreSQL:**
     Connect to your PostgreSQL database using your preferred tool and query the `remote_jobs` table to verify the loaded data.
+
 
 
 ## Contact
